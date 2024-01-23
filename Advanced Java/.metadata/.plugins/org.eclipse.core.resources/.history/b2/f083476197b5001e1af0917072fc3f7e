@@ -1,0 +1,5 @@
+package com.xworkz.person.entity;
+
+public class Person {
+
+}

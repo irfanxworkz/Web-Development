@@ -1,0 +1,9 @@
+package com.xworkz.person.dto;
+
+public class PersonDTO {
+    private String firstName;
+    private String lastName;
+    private int age;
+
+    // Constructors, getters, and setters (omitted for brevity)
+}

@@ -1,0 +1,16 @@
+1701197182249	Rename package 'com.xworkz.user.configuration'
+1701197216937	Rename package 'com.xworkz.user.controller'
+1701197229500	Rename package 'com.xworkz.user.dto'
+1701197240738	Rename package 'com.xworkz.user.entity'
+1701197257078	Rename package 'com.xworkz.user.repositry'
+1701197272163	Rename package 'com.xworkz.clientrepositry'
+1701197282595	Rename package 'com.xworkz.user.service'
+1701197789821	Delete element
+1701198118424	Delete element
+1701198827669	Rename type 'repository'
+1701198946059	Rename compilation unit 'Service.java'
+1701198989954	Rename compilation unit 'ServiceImpl.java'
+1701199097349	Rename compilation unit 'Repository.java'
+1701199127919	Rename compilation unit 'RepositryImpl.java'
+1701199183396	Rename compilation unit 'ClientEntity.java'
+1701199254266	Rename compilation unit 'ClientDTO.java'

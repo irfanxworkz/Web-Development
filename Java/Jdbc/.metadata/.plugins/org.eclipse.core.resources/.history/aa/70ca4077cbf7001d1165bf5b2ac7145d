@@ -1,0 +1,5 @@
+package com.xworkz.iskonTemple.util;
+
+public class JdbcUtil {
+
+}

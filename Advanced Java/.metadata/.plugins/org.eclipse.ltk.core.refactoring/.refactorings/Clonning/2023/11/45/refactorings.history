@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.xworkz.clonning.ClonningDTO.java&apos; to &apos;ClonningShopDTO.java&apos;&#x0D;&#x0A;- Original project: &apos;Clonning&apos;&#x0D;&#x0A;- Original element: &apos;com.xworkz.clonning.ClonningDTO.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.xworkz.clonning.ClonningShopDTO.java&apos;" description="Rename compilation unit &apos;ClonningDTO.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.xworkz.clonning{ClonningDTO.java" name="ClonningShopDTO.java" references="false" stamp="1699675766400" version="1.0"/>
+</session>

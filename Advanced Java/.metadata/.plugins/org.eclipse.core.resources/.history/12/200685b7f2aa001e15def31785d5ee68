@@ -1,0 +1,31 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<%@include file="Link.jsp" %>
+<title>Add User</title>
+</head>
+<body>
+		<div style="background-color: white; border: 2px solid black; border-radius: 10px; margin-top: 50px; margin-left: 200px; margin-right: 200px;">
+			<h1 style="color: red; text-align: center; font-family: cursive; font-size: large;">Add New User</h1>
+			<label style="color: red; font-family: cursive; font-size: larger;">Name :</label>
+			<input type="text" class="form-control" value="name" placeholder="Enter name">
+			<label style="color: red; font-family: cursive; font-size: larger;">Password :</label>
+			<input type="password" class="form-control" value="password" placeholder="Enter Password">
+			<label style="color: red; font-family: cursive; font-size: larger;">Email :</label>
+			<input type="email" class="form-control" value="email" placeholder="Enter Email">
+			<label style="color: red; font-family: cursive; font-size: larger;">Sex :</label>
+			<input type="text" class="form-control" value="name" placeholder="Enter name">
+			<label style="color: red; font-family: cursive; font-size: larger;">Country :</label>
+			<select >
+				<option value="">Select Country</option>
+				<option value="india">India</option>
+				<option value="usa">USA</option>
+				<option value="china">China</option>
+				<option value="japan">Japan</option>
+			</select>
+		</div>
+</body>
+</html>

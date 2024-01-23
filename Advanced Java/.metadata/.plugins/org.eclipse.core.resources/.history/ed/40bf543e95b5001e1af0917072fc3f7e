@@ -1,0 +1,5 @@
+package com.xworkz.person.repo;
+
+public interface PersonRepository {
+
+}

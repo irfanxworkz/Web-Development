@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1699675604552_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1699675604608_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1701195813194_6" label="Project" name="Project"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1702298071735_7" label="Spring" name="Spring">
+<item elementID="=Shop" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1702983669258_8" label="NewSpring" name="NewSpring">
+<item elementID="=saloon" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Entertainment" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=project" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=User" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=person" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1704283339895_10" label="JavaSpringNewWorkSpace" name="JavaSpringNewWorkSpace">
+<item elementID="=SpringBall" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1699675607403_2" label="Window Working Set" name="Aggregate for window 1699675607403"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1699675677155_3" label="Window Working Set" name="Aggregate for window 1699675677155"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1700032463986_4" label="Window Working Set" name="Aggregate for window 1700032463986"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1700571218524_5" label="Window Working Set" name="Aggregate for window 1700571218524"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1703567743055_9" label="Window Working Set" name="Aggregate for window 1703567743055"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1704363685907_11" label="Multiple Working Sets" name="Aggregate:JavaSpringNewWorkSpace:NewSpring:">
+<workingSet IMemento.internal.id="JavaSpringNewWorkSpace"/>
+<workingSet IMemento.internal.id="NewSpring"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1704974888865_12" label="Multiple Working Sets" name="Aggregate:Java Main Sources:JavaSpringNewWorkSpace:Java Test Sources:NewSpring:Project:Spring:">
+<workingSet IMemento.internal.id="Java Main Sources"/>
+<workingSet IMemento.internal.id="JavaSpringNewWorkSpace"/>
+<workingSet IMemento.internal.id="Java Test Sources"/>
+<workingSet IMemento.internal.id="NewSpring"/>
+<workingSet IMemento.internal.id="Project"/>
+<workingSet IMemento.internal.id="Spring"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1705535372485_13" label="Multiple Working Sets" name="Aggregate:NewSpring:Project:Spring:">
+<workingSet IMemento.internal.id="NewSpring"/>
+<workingSet IMemento.internal.id="Project"/>
+<workingSet IMemento.internal.id="Spring"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1705535383102_14" label="Multiple Working Sets" name="Aggregate:NewSpring:Spring:">
+<workingSet IMemento.internal.id="NewSpring"/>
+<workingSet IMemento.internal.id="Spring"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1705535401189_15" label="Multiple Working Sets" name="Aggregate:NewSpring:Project:">
+<workingSet IMemento.internal.id="NewSpring"/>
+<workingSet IMemento.internal.id="Project"/>
+</workingSet>
+<mruList name="Spring"/>
+<mruList name="Project"/>
+<mruList name="JavaSpringNewWorkSpace"/>
+<mruList name="NewSpring"/>
+</workingSetManager>

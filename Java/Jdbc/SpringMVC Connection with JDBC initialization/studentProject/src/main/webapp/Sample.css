@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+body{
+    margin: 150px; /* Space from this element (entire page) and others*/
+    padding: 20px; /*space from content and border*/
+    border: solid gray;
+    border-width: 10px;
+}

@@ -1,0 +1,19 @@
+package com.xworkz.iskonTemple.repositry;
+
+import com.xworkz.iskonTemple.dto.IskonTempleDTO;
+
+public class RepositryImpl implements Repositry {
+
+	@Override
+	public void save(IskonTempleDTO dto) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void findByName(String name) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

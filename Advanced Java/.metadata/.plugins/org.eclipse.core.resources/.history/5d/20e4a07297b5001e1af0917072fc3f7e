@@ -1,0 +1,9 @@
+package com.xworkz.person.repo;
+
+@Repository
+public interface PersonRepository {
+    List<Person> findAll();
+    Optional<Person> findById(Long id);
+    void save(Person person);
+    void deleteById(Long id);
+}

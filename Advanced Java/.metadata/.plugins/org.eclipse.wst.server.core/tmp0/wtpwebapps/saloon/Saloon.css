@@ -1,0 +1,25 @@
+
+
+
+
+ 	body{        
+        padding-top: 80px;
+        padding-bottom: 60px;
+        background-color: buttonface;
+    }
+    .container{
+        width: 100%;
+        margin: 0 auto; /* Center the DIV horizontally */
+    }
+    .fixed-header, .fixed-footer{
+        width: 100%;
+        position: fixed;        
+ 
+    }
+    .fixed-header{
+        top: 0;
+    }
+    .fixed-footer{
+        bottom: 0;
+    }   
+     

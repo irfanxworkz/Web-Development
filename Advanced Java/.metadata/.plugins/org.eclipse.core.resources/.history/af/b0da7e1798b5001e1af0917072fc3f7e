@@ -1,0 +1,11 @@
+package com.xworkz.person.repo;
+
+public class PersonRepositoryImpl implements PersonRepository {
+
+	@Override
+	public void deleteById(Long id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

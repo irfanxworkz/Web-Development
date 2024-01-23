@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:17:31:50 +0530] "GET /User/AddUser.jsp HTTP/1.1" 200 3377
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:17:32:02 +0530] "GET /User/ViewAllUser.jsp HTTP/1.1" 200 2060
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:17:32:07 +0530] "POST /User/deleteUserDetail HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:17:32:10 +0530] "POST /User/editUserDetail HTTP/1.1" 404 682

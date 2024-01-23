@@ -1,0 +1,12 @@
+package com.xworkz.iskonTemple.repositry;
+
+import com.xworkz.iskonTemple.dto.IskonTempleDTO;
+
+public interface Repositry {
+	
+	public void save(IskonTempleDTO dto);
+	
+	public void findByName(String name);
+	
+
+}
