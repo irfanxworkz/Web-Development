@@ -1,7 +1,6 @@
 package com.xworkz.bulb.runner;
 
 import com.xworkz.bulb.entity.BulbEntity;
-
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
