@@ -1,6 +1,7 @@
 package com.xworkz.repository;
 
 import com.xworkz.entity.FertilizerEntity;
+import com.xworkz.util.EmfUtil;
 
 import javax.persistence.*;
 import java.util.Collections;
@@ -8,7 +9,7 @@ import java.util.List;
 
 public class FertilizerRepoImpl implements FertilizerRepo {
 
-   private EntityManagerFactory entityManagerFactory=Persistence.createEntityManagerFactory("com.xworkz");
+   private EntityManagerFactory entityManagerFactory= EmfUtil.getEntityManagerFactory();
 
     @Override
     public Integer save(FertilizerEntity fertilizerEntity) {

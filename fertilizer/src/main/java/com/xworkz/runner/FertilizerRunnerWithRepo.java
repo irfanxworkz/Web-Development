@@ -18,7 +18,7 @@ public class FertilizerRunnerWithRepo {
         FertilizerRepo fertilizerRepo=new FertilizerRepoImpl();
        // System.out.println(entities);
         //fertilizerRepo.save(fertilizerEntity);
-       // fertilizerRepo.saveAll(entities);
+       fertilizerRepo.saveAll(entities);
 
        List<FertilizerEntity> list= fertilizerRepo.findAll(20);
        list.forEach(e->System.out.println("Entity By Quantity is  "+e.getQuantity()+" : "+e));

@@ -1,6 +1,7 @@
 package com.xworkz.repository;
 
 import com.xworkz.entity.TempleEntity;
+import com.xworkz.util.EmfUtil;
 
 import javax.persistence.*;
 import java.time.LocalDate;
@@ -8,7 +9,7 @@ import java.util.List;
 
 public class TempleRepoImpl implements TempleRepo{
 
-    private EntityManagerFactory entityManagerFactory= Persistence.createEntityManagerFactory("com.xworkz");
+    private EntityManagerFactory entityManagerFactory= EmfUtil.getEntityManagerFactory();
 
     @Override
     public void save(TempleEntity entity) {

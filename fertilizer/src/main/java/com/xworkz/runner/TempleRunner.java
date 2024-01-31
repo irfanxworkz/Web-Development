@@ -23,7 +23,7 @@ public class TempleRunner {
        // repo.save(templeEntity);
 
         List<TempleEntity> entities= Arrays.asList(templeEntity1,templeEntity2,templeEntity3,templeEntity4,templeEntity5);
-        //repo.saveAll(entities);
+       // repo.saveAll(entities);
         repo.findAllByLocation("BasavesraNagar");
         System.out.println("--------------------------------------------------");
        List<TempleEntity> list= repo.findAllByEntryFeeGreaterThan(100);
